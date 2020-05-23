@@ -16,6 +16,7 @@ export default () => (
       <Counter />
       <Link href="/">/</Link>
       <Link href="/testing">/testing</Link>
+      <Link href="/test">/test</Link>
       <Link href="/test/one">/test/one</Link>
       <Link href="/test/two">/test/two</Link>
       <p className="description">
